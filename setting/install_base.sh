@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt udpate -y
+sudo apt update -y
 sudo apt install -y links
