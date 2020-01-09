@@ -10,7 +10,7 @@ app = web.application(urls, globals())
 
 class getString:        
     def GET(self):
-    	output = '{"x":1,"y":2}'
+        output = '{"x":1,"y":2}'
         return output
 
 if __name__ == "__main__":
