@@ -29,6 +29,7 @@ Temporary Items
 # for Python and Jupyter
 __pycache__
 */*.pyc
+*.pyc
 ## Jupyter
 .Trash-0
 **/.ipynb_checkpoints
