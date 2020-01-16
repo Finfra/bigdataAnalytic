@@ -91,4 +91,4 @@ tar xf cudnn-10.0-linux-x64-v7.6.5.32.tar
 sudo mv cuda/include/* /usr/local/cuda/include/
 sudo mv cuda/lib64/* /usr/local/cuda/lib64/
 rm -rf cuda
-reboot
+echo "Do reboot Command"
